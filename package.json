@@ -1,0 +1,11 @@
+{
+  "name": "quizmasterjs-main",
+  "version": "1.0.0",
+  "description": "QuizMasterJS is an application designed for individuals to assess their knowledge of JavaScript through a series of tests. [Visit Website](https://quizmasterjs.netlify.app/).",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run build"
+  },
+  "author": "",
+  "license": "ISC"
+}
